@@ -1,3 +1,7 @@
+/*
+    引脚配置是默认的I2C.
+*/
+
 #ifndef OLED_H
 #define OLED_H
  
